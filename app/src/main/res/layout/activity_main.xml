@@ -9,7 +9,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="弹出图片选择菜单"
+        android:text="弹出视频选择菜单"
         android:padding="16dp"
         android:onClick="showDialog"
         app:layout_constraintBottom_toBottomOf="parent"

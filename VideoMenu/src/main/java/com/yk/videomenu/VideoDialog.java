@@ -13,7 +13,7 @@ import androidx.annotation.Nullable;
 
 /**
  * @ClassName: PictureDialog
- * @Description: 选择图片的弹窗
+ * @Description: 选择视频的弹窗
  * @Author: YangKuan
  * @Date: 2021/3/1 14:26
  */
