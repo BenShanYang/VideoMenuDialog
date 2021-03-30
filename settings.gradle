@@ -1,0 +1,3 @@
+include ':VideoMenu'
+include ':app'
+rootProject.name = "VideoMenuDialog"
